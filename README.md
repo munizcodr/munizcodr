@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @munizcodr
-- 👀 I’m interested in blockchain development.
+- 👀 I’m interested in Python Development, Flutter, Web Development etc.
 - 🌱 I’m currently learning computer science, Btech
-- 💞️ I’m looking to collaborate on backend development with python, django etc
+- 💞️ I’m looking to collaborate on backend development with python, flutter etc
 - 📫 You can reach by dm me via linkedin---->   https://www.linkedin.com/in/munizcodr
 
 <!---
