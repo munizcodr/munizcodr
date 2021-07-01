@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @munizcodr
-- 👀 I’m interested in Python Development, Web Development etc.
-- 🌱 I’m currently learning computer science, Btech
-- 💞️ I’m looking to collaborate on backend development with Python, Django, Flask, Mysql etc
-- 📫 You can reach by dm me via linkedin---->   https://www.linkedin.com/in/munizcodr/
+- 👀 I’m interested in Software Development, Web Development etc.
+- 🌱 I’m currently learning computer science, Btech in College of Engg, Chengannur KL-India
+- 💞️ I’m looking to collaborate on backend development with Python, Django, Mysql etc
+- 📫 You can reach me via dm via linkedin---->   https://www.linkedin.com/in/munizcodr/
 
 
 
