@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Web Development etc.
 - 🌱 I’m currently learning computer science, Btech in College of Engg, Chengannur KL-India
 - 💞️ I’m looking to collaborate on backend development with Python, Django, Mysql etc
-- 📫 Wanna' reach to me, Ezy Pzy way dm me on linkedin---->   https://www.linkedin.com/in/munizcodr/
+- 📫 Wanna' reach to me, Ezy Pzy way dm me on linkedin---->   https://www.linkedin.com/in/munizh/
 
 
 
